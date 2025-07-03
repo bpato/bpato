@@ -1,4 +1,7 @@
-## Hi there 👋
+<h2 align="center">👋 Hi there</h2>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=bpato&color=ff69b4"/>
+</p>
 
 <!--
 **bpato/bpato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
